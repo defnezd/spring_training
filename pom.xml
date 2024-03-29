@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>spring-00-coupling</module>
+        <module>spring-01-core-IoC-Bean-Annotation</module>
     </modules>
 
     <properties>
